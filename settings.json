@@ -1,0 +1,13 @@
+{
+  "token": "",
+  "trigger": "",
+  "whitelist": [
+    "",
+    ""
+  ],
+  "whiteListServers": [
+    "",
+    ""
+  ],
+  "stateRPC": false
+}

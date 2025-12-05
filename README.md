@@ -75,8 +75,6 @@ Menu principal (terminal): :contentReference[oaicite:1]{index=1}
    ```bash
    git clone https://github.com/japonesint7/Clear-Account-Discord.git
    cd Clear-Account-Discord
-   npm install
-   npm run build
-   npm run pkg
+   ./start.bat
 
 ---
